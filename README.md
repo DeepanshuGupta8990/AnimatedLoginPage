@@ -10,7 +10,7 @@ To use or modify this code on your local machine, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/animated-signin-form.git
+git clone 
 Navigate to the project directory:
 bash
 Copy code
