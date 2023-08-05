@@ -1,4 +1,6 @@
 # AnimatedLoginPage - https://64cb4f3bb759fc415062c5fb--reliable-paprenjak-8fde2f.netlify.app/
+![Recording_2023-08-05_105900_AdobeExpress](https://github.com/DeepanshuGupta8990/AnimatedLoginPage/assets/138364688/304742a1-9aa1-4566-8960-a7782fc28e31)
+
 This repository contains a simple sign-in form with an animated background, created using HTML, CSS, and JavaScript.
 
 Description
